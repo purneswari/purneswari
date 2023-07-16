@@ -6,7 +6,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently studying computer science and technology...📖
-- 🌱 I’m currently learning C programming
 - 👯 I’m looking to collaborate on technology
 - 🤔 I’m looking for help with coding
 - 💬 Ask me about anything related to mathematics 
